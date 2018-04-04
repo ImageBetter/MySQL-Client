@@ -1,2 +1,2 @@
-# MySQL
-MySQL in Docker
+# MySQL Client
+MySQL Client in Docker
